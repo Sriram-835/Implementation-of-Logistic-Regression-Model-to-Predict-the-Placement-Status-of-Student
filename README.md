@@ -1,6 +1,3 @@
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: SRIRAM K
-Register Number: 212222080052
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
@@ -25,11 +22,11 @@ STEP 6:Display the confusion matrix using metrics.ConfusionMatrixDisplay and plo
 
 STEP 7:End
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Ragala Sai Vivek
-RegisterNumber: 212223230163 
+Developed by: SRIRAM K
+Register Number: 212222080052
 */
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Desktop/Placement_Data.csv")
